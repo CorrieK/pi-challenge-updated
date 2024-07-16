@@ -1,5 +1,6 @@
 
-[![Build Status](http://13.51.3.11:8080/buildStatus/icon?job=pi-challenge)](http://13.51.3.11:8080/job/pi-challenge/)
+[![Build Status](http://13.51.3.11:8080/buildStatus/icon?job=pi-challenge-updated)](http://13.51.3.11:8080/job/pi-challenge-updated/)
+
 
 
 # pi-challenge
